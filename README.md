@@ -23,8 +23,8 @@ SerBot AGV 매뉴얼 내 LiDAR 구성 및 Navigation2 연동 실패
 
 맵은 생성되었지만 실제 자율 이동 불가
 
+[회의록.2팀.12주차.250528.pdf](https://github.com/user-attachments/files/20743857/2.12.250528.pdf)
 
-[회의록.2팀.12주차.250528.pdf](https://github.com/user-attachments/files/20743785/2.12.250528.pdf)
 
 [전체 회의록.zip](https://github.com/user-attachments/files/20743790/default.zip)
 
